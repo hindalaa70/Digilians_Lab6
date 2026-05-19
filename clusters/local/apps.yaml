@@ -13,7 +13,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TasnimElyamany/Digilians_Lab6.git
+    repoURL: https://github.com/hindalaa70/Digilians_Lab6.git
     targetRevision: main
     path: infrastructure/argocd/applications/apps
     directory:
